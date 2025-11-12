@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "chalk": "^5.6.2",
+    "readline-sync": "^1.4.10",
+  },
+  "name": "chalk",
+  "version": "1.0.0",
+  "description": "This repo is the continuation of the node.js",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syedsaboor13/chalk.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syedsaboor13/chalk/issues"
+  },
+  "homepage": "https://github.com/syedsaboor13/chalk#readme"
+}
