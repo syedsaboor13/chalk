@@ -8,8 +8,7 @@ async function common() {
         // console.log("Created and Deleted folder");
 
         let folder = readline.question("Enter the folder name : ")
-        await fs.mkdir(folder
-        )
+        await fs.mkdir(folder)
 
 
     }catch (error) {

@@ -1,5 +1,3 @@
-
-
 import readline from "readline-sync"
 import fs from "fs/promises"
 

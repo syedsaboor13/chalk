@@ -1,13 +1,15 @@
 {
   "dependencies": {
+    "axios": "^1.13.2",
     "chalk": "^5.6.2",
-    "readline-sync": "^1.4.10",
+    "dotenv": "^17.2.3",
+    "readline-sync": "^1.4.10"
   },
   "name": "chalk",
   "version": "1.0.0",
   "description": "This repo is the continuation of the node.js",
   "main": "index.js",
-  "type":"module",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
